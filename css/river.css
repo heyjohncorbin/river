@@ -1,0 +1,24 @@
+body {
+    padding-top: 5rem;
+}
+.river {
+    padding: 1.5rem 1.5rem;
+    text-align: center;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+}
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+.card {
+    padding: 5px;
+    margin: 5px;
+}
+.page-footer {
+    padding: 10px;
+    margin: 10px;
+}
